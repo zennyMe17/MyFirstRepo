@@ -1,2 +1,2 @@
 # MyFirstRepo
-AUthor = Hemanth S
+Author = Hemanth S
